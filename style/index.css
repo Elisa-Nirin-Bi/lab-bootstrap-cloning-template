@@ -1,1 +1,7 @@
-/* Your own custom styles should be here */
+*{
+  font-family: sans-serif;
+}
+
+#card1, #card2, #card3{
+  border: none;
+}
